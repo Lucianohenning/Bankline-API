@@ -8,6 +8,7 @@ public class ApiRestDoProjetoBankLineApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApiRestDoProjetoBankLineApiApplication.class, args);
+		//Iremos começar a codificar o nosso projeto 
 	}
 
 }
